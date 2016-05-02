@@ -1,5 +1,7 @@
 package com.kimmin.oj.leetcode;
 
+import java.util.*;
+
 /**
  * Created by kimmin on 5/2/16.
  */
@@ -14,5 +16,7 @@ public class Ans283 {
                 nums[i] = 0;
             }
         }
+
     }
+
 }
