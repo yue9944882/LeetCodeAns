@@ -5,6 +5,12 @@ package com.kimmin.oj.leetcode;
  */
 
 public class Ans226 {
+    public class TreeNode{
+        TreeNode left;
+        TreeNode right;
+        int val;
+    }
+
     public class Solution {
         public TreeNode invertTree(TreeNode root) {
             if(root == null) return null;
