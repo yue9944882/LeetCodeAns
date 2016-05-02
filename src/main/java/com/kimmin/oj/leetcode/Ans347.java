@@ -27,6 +27,10 @@ public class Ans347 {
             };
             PriorityQueue<FreqNum> pq = new PriorityQueue<FreqNum>(comp);
 
+            for(Map.Entry<Integer, Integer> entry: map.entrySet()){
+
+            }
+
             for(Integer key: map.keySet()){
                 pq.offer(new FreqNum(key, map.get(key)));
             }
