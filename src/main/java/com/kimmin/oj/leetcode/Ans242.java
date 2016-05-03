@@ -41,6 +41,7 @@ public class Ans242 {
                 if(i1.intValue() != i2.intValue()) return false;
             }
             return true;
+            
         }
     }
 }

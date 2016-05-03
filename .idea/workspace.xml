@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a1990a2e-4276-4deb-bb23-cde6d1db59c5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans122.java" afterPath="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans122.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans242.java" afterPath="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans242.java" />
     </list>
     <ignored path="LeetCodeAns.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,16 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Ans334.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans334.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Ans338.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans338.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -125,12 +115,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ans122.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Ans122.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans122.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ans242.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans242.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#336#356#0" expanded="true" />
+                <element signature="e#414#434#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -175,6 +179,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans237.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans100.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans122.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans242.java" />
       </list>
     </option>
   </component>
@@ -1071,12 +1076,12 @@
       <option name="presentableId" value="Default" />
       <updated>1462171386327</updated>
       <workItem from="1462171388438" duration="609000" />
-      <workItem from="1462172042454" duration="5209000" />
+      <workItem from="1462172042454" duration="6115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5818000" />
+    <option name="totallyTimeSpent" value="6724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1319,8 +1324,20 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans122.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans242.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#336#356#0" expanded="true" />
+            <element signature="e#414#434#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
