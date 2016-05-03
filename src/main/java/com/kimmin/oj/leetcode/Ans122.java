@@ -20,6 +20,7 @@ public class Ans122 {
                 }
             }
             return profit;
+
         }
     }
 }
