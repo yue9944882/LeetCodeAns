@@ -7,6 +7,9 @@ import java.util.*;
  */
 public class Ans237 {
     public class ListNode {
+        public ListNode(int val){
+            this.val = val;
+        }
         public ListNode next;
         public int val;
     }
