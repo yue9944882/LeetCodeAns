@@ -50,6 +50,8 @@ public class Ans230 {
                 pq.offer(parent.val);
                 pq.poll();
             }else pq.offer(parent.val);
+            Stack<Integer> stack = new Stack<Integer>();
+            
         }
 
 
