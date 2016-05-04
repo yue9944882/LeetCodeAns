@@ -13,6 +13,7 @@ public class Ans171 {
                 val = val * 26 + (diff + 1);
             }
             return val;
+
         }
     }
 }
