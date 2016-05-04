@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1990a2e-4276-4deb-bb23-cde6d1db59c5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans319.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans287.java" afterPath="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans287.java" />
     </list>
     <ignored path="LeetCodeAns.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1143,12 +1141,12 @@
       <updated>1462171386327</updated>
       <workItem from="1462171388438" duration="609000" />
       <workItem from="1462172042454" duration="11934000" />
-      <workItem from="1462329685316" duration="1387000" />
+      <workItem from="1462329685316" duration="1558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13930000" />
+    <option name="totallyTimeSpent" value="14101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
