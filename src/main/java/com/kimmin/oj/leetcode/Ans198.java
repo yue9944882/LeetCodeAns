@@ -21,6 +21,7 @@ public class Ans198 {
                 money[i] = Math.max(money[i - 2] + nums[i], money[i - 1]);
             }
             return Math.max(money[nums.length - 1], money[nums.length - 2]);
+            
         }
     }
 }
