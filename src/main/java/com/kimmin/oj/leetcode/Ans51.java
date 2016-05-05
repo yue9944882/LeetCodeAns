@@ -81,6 +81,7 @@ public class Ans51 {
                     col[depth] = false;
                 }
             }
+
         }
     }
 }
