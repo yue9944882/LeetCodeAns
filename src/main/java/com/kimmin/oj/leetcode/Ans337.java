@@ -32,6 +32,7 @@ public class Ans337 {
             this.sum = 0;
             recRob(root, false);
             int sum2 = this.sum;
+
             return sum1 > sum2 ? sum1 : sum2;
         }
 
