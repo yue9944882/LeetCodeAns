@@ -1,5 +1,7 @@
 package com.kimmin.oj.leetcode;
 
+import java.util.List;
+
 /**
  * Created by kimmin on 5/10/16.
  */
@@ -21,6 +23,7 @@ public class Ans21 {
             }
         }
         public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+
             ListNode newListHead = null;
             ListNode newList = null;
             ListNode list1 = l1;
