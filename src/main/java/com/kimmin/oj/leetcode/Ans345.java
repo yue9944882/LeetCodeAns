@@ -1,7 +1,6 @@
 package com.kimmin.oj.leetcode;
 
-import java.util.HashSet;
-import java.util.Set;
+import java.util.*;
 
 /**
  * Created by kimmin on 5/13/16.
@@ -43,6 +42,8 @@ public class Ans345 {
                 }
             }
             return sb.toString();
+            Deque<Integer> deque = new ArrayDeque<Integer>();
+            deque
         }
     }
 }
