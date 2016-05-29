@@ -42,8 +42,6 @@ public class Ans345 {
                 }
             }
             return sb.toString();
-            Deque<Integer> deque = new ArrayDeque<Integer>();
-            deque
         }
     }
 }
