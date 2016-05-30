@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1990a2e-4276-4deb-bb23-cde6d1db59c5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans101.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCodeAns.iws" />
@@ -103,11 +104,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ans36.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Ans36.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans36.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="590">
               <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ans101.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans101.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -124,16 +135,6 @@
                 <element signature="e#429#438#0" expanded="false" />
                 <element signature="e#582#591#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ans191.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans191.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -164,7 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans100.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans122.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans242.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans217.java" />
@@ -215,6 +215,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans118.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans112.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans36.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans101.java" />
       </list>
     </option>
   </component>
@@ -1236,12 +1237,12 @@
       <workItem from="1463399118622" duration="35000" />
       <workItem from="1463536001261" duration="6629000" />
       <workItem from="1464138903777" duration="917000" />
-      <workItem from="1464523120770" duration="3037000" />
+      <workItem from="1464523120770" duration="3328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44925000" />
+    <option name="totallyTimeSpent" value="45216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1333,13 +1334,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans94.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans226.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1718,6 +1712,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="590">
           <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans101.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
