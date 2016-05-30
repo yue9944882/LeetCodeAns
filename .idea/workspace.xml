@@ -2,120 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1990a2e-4276-4deb-bb23-cde6d1db59c5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans118.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans100$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans100$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans100$TreeNode.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans100$TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans100.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans100.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans104.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans104.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans111.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans111.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans121$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans121$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans121.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans121.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans122$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans122$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans122.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans122.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans136$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans136$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans136.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans136.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans137$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans137$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans137.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans137.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans141$Solution$ListNode.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans141$Solution$ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans141$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans141$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans141.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans141.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans144$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans144$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans144.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans144.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans168$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans168$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans168.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans168.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans169$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans169$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans169.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans169.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans171$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans171$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans171.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans171.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans191$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans191$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans191.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans191.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans198$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans198$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans198.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans198.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans202$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans202$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans202.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans202.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans206$Solution$ListNode.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans206$Solution$ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans206$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans206$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans206.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans206.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans21$Solution$ListNode.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans21$Solution$ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans21$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans21$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans21.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans21.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans217$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans217$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans217.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans217.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans22$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans22$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans22.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans22.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans226$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans226$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans226$TreeNode.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans226$TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans226.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans226.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans230$Solution$1.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans230$Solution$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans230$Solution$TreeNode.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans230$Solution$TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans230$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans230$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans230.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans230.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans231$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans231$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans231.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans231.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans235$Solution$TreeNode.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans235$Solution$TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans235$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans235$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans235.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans235.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans237$ListNode.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans237$ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans237.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans237.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans24$ListNode.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans24$ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans24$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans24$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans24.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans24.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans242$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans242$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans242.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans242.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans260$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans260$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans260.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans260.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans263$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans263$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans263.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans263.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans268$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans268$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans268.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans268.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans283$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans283$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans283.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans283.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans287$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans287$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans287.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans287.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans292$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans292$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans292.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans292.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans318$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans318$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans318.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans318.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans319$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans319$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans319.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans319.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans326$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans326$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans326.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans326.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans328$Solution$ListNode.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans328$Solution$ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans328$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans328$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans328.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans328.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans334$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans334$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans334.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans334.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans337$Solution$TreeNode.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans337$Solution$TreeNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans337$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans337$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans337.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans337.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans338$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans338$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans338.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans338.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans343$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans343$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans343.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans343.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans347$Solution$1.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans347$Solution$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans347$Solution$FreqNum.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans347$Solution$FreqNum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans347$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans347$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans347.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans347.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans35$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans35$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans35.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans35.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans51$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans51$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans51.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans51.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans52$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans52$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans52.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans52.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans67$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans67$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans67.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans67.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans70$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans70$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans70.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans70.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans83$Solution$ListNode.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans83$Solution$ListNode.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans83$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans83$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans83.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans83.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans89$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans89$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans89.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans89.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans94$Solution.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans94$Solution.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans94.class" afterPath="$PROJECT_DIR$/target/classes/com/kimmin/oj/leetcode/Ans94.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/DP2d.class" afterPath="$PROJECT_DIR$/target/test-classes/DP2d.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans345.java" afterPath="$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans345.java" />
     </list>
     <ignored path="LeetCodeAns.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -154,7 +41,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
-              <folding />
+              <folding>
+                <element signature="e#0#23074#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,9 +53,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -176,12 +63,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#335#353#0" expanded="true" />
-                <element signature="e#409#427#0" expanded="true" />
-                <element signature="e#1293#1302#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -199,7 +81,7 @@
       <file leaf-file-name="Ans118.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans118.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
+            <state relative-caret-position="240">
               <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -216,7 +98,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
               <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#277#286#0" expanded="false" />
+                <element signature="e#429#438#0" expanded="false" />
+                <element signature="e#582#591#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -236,7 +123,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
               <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#316#325#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1349,16 +1239,16 @@
       <workItem from="1463399118622" duration="35000" />
       <workItem from="1463536001261" duration="6629000" />
       <workItem from="1464138903777" duration="917000" />
-      <workItem from="1464523120770" duration="229000" />
+      <workItem from="1464523120770" duration="1950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42117000" />
+    <option name="totallyTimeSpent" value="43838000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1369,7 +1259,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934928" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27888447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27888447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2109375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1378,7 +1268,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3997344" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997344" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1425,8 +1315,14 @@
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans118.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="17" />
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1692,6 +1588,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1706,6 +1603,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1737,7 +1635,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#316#325#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1753,7 +1654,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
-          <folding />
+          <folding>
+            <element signature="e#0#23074#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1761,7 +1664,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#277#286#0" expanded="false" />
+            <element signature="e#429#438#0" expanded="false" />
+            <element signature="e#582#591#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1769,9 +1677,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1779,12 +1685,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#335#353#0" expanded="true" />
-            <element signature="e#409#427#0" expanded="true" />
-            <element signature="e#1293#1302#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1806,7 +1707,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kimmin/oj/leetcode/Ans118.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
+        <state relative-caret-position="240">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
